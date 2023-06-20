@@ -34,11 +34,11 @@ disqus:
   categories: [blog, project] # only show disqus for posts that have these categories
 
 # if you don't have any of social below, comment the line
-facebook: myfacebook
-twitter: mytwitter
-instagram: myinstagram
-linkedin: mylinkedin
-github: https://github.com/JhonyRam
+facebook: jhony.rt77
+twitter: jhonyZxR
+instagram: jhonyr_3
+linkedin: jhonyramoseh
+github: JhonyRam
 email: jhonyramos7776@gmail.com
 
 authors:
@@ -47,7 +47,7 @@ authors:
     bio: Aji de gallina lover
     external-image: false
     picture: assets/images/profile.jpg
-    twitter: jhony.zxR
+    twitter: jhonyZxR
 
 # do you want a larger site? change the option below
 # options: [normal, large] | default: normal
